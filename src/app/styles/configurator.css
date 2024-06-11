@@ -1,0 +1,136 @@
+.filters-box,
+.logos-box,
+.texts-box,
+.uploads-box,
+.undos-box,
+.redos-box {
+  margin-top: 0.8rem;
+  padding: 1rem 0.5rem;
+  border: solid 0.3px gray;
+  text-align: center;
+  cursor: pointer;
+}
+
+.t-shirt-middle-box {
+  text-align: center;
+}
+
+.t-shirt-middle-box .image-t-shirt {
+  margin-top: 1rem;
+}
+
+.tshirt-button {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 3rem;
+       column-gap: 3rem;
+  justify-content: center;
+}
+
+.cusotmize-box {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 3rem;
+       column-gap: 3rem;
+}
+
+.cusotmize-box .saves-box,
+.cusotmize-box .shares-box {
+  margin-top: 0.8rem;
+  padding: 0.1rem 0.5rem;
+  border: solid 0.3px gray;
+  text-align: center;
+  cursor: pointer;
+}
+
+.main-quantitiyBox-button {
+  border: solid 1px gray;
+  padding: 0.7rem 0.7rem;
+  margin-top: 0.8rem;
+}
+
+.main-button1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: solid 1px gray;
+  padding: 0.4rem 0.5rem;
+}
+
+.main-button1 .button1 {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 0.5;
+       column-gap: 0.5;
+  align-items: center;
+}
+
+.social-box {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 0.5;
+       column-gap: 0.5;
+  align-items: center;
+  margin-top: 1rem;
+  -moz-column-gap: 1rem;
+       column-gap: 1rem;
+  border: solid 1px gray;
+  padding: 0.6rem 0.5rem;
+}
+
+.file-box {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 0.5;
+       column-gap: 0.5;
+  align-items: center;
+}
+
+.logos-box {
+  cursor: pointer;
+}
+
+.t-shirt-middle-box {
+  position: relative;
+}
+
+.logo-image {
+  position: absolute;
+  top: 35%;
+  left: 45%;
+  transform: translate(-50%, -50%);
+}
+
+.text_configurtors_button,
+.inde_textco {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 0.5;
+       column-gap: 0.5;
+  align-items: center;
+}
+
+.inde_textco {
+  margin-left: 1rem;
+}
+
+.curve-text-container {
+  position: relative;
+  width: 100%;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.main-map-image {
+  display: flex;
+  flex-direction: row;
+  -moz-column-gap: 0.5;
+       column-gap: 0.5;
+  align-items: center;
+  justify-content: center;
+  -moz-column-gap: 2rem;
+       column-gap: 2rem;
+}/*# sourceMappingURL=configurator.css.map */
